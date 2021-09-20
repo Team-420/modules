@@ -1,6 +1,6 @@
-id=neternels-modules
-name=NetErnels kernel modules.
+id=team420-modules
+name=Team420 kernel modules.
 version=v1.0
 versionCode=2004
-author=neternels
-description=NetErnels kernel modules for NetHunter usage with aircrack-ng drivers.
+author=Team420
+description=Team420 kernel modules for NetHunter usage with aircrack-ng drivers.

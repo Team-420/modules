@@ -123,8 +123,8 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "      NetErnels 1.0 modules    "
-  ui_print "      ~ @neternels             "
+  ui_print "      Team420 1.0 modules      "
+  ui_print "      ~ @Team420               "
   ui_print "*******************************"
 }
 
